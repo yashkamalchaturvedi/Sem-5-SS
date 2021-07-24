@@ -77,7 +77,7 @@
 # -x    True if the file is an executable
 ########
 
-#CASE STATEMENT
+# CASE STATEMENT
 # read -p "Are you 21 or over? Y/N " ANSWER
 # case "$ANSWER" in 
 #   [yY] | [yY][eE][sS])
